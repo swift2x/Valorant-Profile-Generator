@@ -1,6 +1,6 @@
-# ascent-profile-gen
+# valorant-profile-gen
 
-JavaScript generator for Ascent profile + route JSON payloads.
+JavaScript generator for Valorant profile + route JSON payloads.
 
 ```bat
 start.bat
