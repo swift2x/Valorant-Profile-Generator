@@ -1,4 +1,4 @@
-# valorant-profile-gen
+# Valorant-profile-gen
 
 JavaScript generator for Valorant profile + route JSON payloads.
 
