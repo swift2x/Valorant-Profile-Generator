@@ -1,0 +1,97 @@
+{
+  "Classic": {
+    "skin_id": "Classic_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Shorty": {
+    "skin_id": "Shorty_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Frenzy": {
+    "skin_id": "Frenzy_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Ghost": {
+    "skin_id": "Ghost_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Sheriff": {
+    "skin_id": "Sheriff_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Stinger": {
+    "skin_id": "Stinger_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Spectre": {
+    "skin_id": "Spectre_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Bucky": {
+    "skin_id": "Bucky_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Judge": {
+    "skin_id": "Judge_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Bulldog": {
+    "skin_id": "Bulldog_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Guardian": {
+    "skin_id": "Guardian_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Phantom": {
+    "skin_id": "Phantom_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Vandal": {
+    "skin_id": "Vandal_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Marshal": {
+    "skin_id": "Marshal_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Operator": {
+    "skin_id": "Operator_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Outlaw": {
+    "skin_id": "Outlaw_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Ares": {
+    "skin_id": "Ares_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Odin": {
+    "skin_id": "Odin_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  },
+  "Melee": {
+    "skin_id": "Melee_Standard_0",
+    "buddy_id": "Buddy_1",
+    "charm_id": null
+  }
+}

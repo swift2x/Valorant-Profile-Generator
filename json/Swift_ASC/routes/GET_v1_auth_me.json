@@ -1,0 +1,2838 @@
+{
+  "access_token": "eyJzdWIiOiI1ZjdhM2E4Yy0wMzAxLTQwNmQtYjM5OC1mYjZiMTYzNmU2ODkiLCJuYW1lIjoiU3dpZnQifQ",
+  "token_type": "Bearer",
+  "user": {
+    "puuid": "9ebcf2a0-fde6-42de-8a60-56be2640ff0a",
+    "name": "Swift",
+    "tag": "ASC",
+    "level": 400,
+    "title": "THE HUNTER",
+    "online": false,
+    "banned": false,
+    "inventory": {
+      "agents": [
+        {
+          "id": "Jett",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Reyna",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Phoenix",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Raze",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Yoru",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Neon",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Iso",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Waylay",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Sage",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Killjoy",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Cypher",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Chamber",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Deadlock",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Vyse",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Sova",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Breach",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Skye",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "KAY/O",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Fade",
+          "unlocked": true,
+          "level": 50,
+          "equipped": true
+        },
+        {
+          "id": "Gekko",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Tejo",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Omen",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Brimstone",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Viper",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Astra",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Harbor",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        },
+        {
+          "id": "Clove",
+          "unlocked": true,
+          "level": 50,
+          "equipped": false
+        }
+      ],
+      "skins": [
+        {
+          "id": "Classic_Standard_0",
+          "weapon": "Classic",
+          "name": "Classic Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Select_1",
+          "weapon": "Classic",
+          "name": "Classic Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Select_2",
+          "weapon": "Classic",
+          "name": "Classic Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Select_3",
+          "weapon": "Classic",
+          "name": "Classic Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Deluxe_4",
+          "weapon": "Classic",
+          "name": "Classic Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Deluxe_5",
+          "weapon": "Classic",
+          "name": "Classic Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Deluxe_6",
+          "weapon": "Classic",
+          "name": "Classic Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Premium_7",
+          "weapon": "Classic",
+          "name": "Classic Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Premium_8",
+          "weapon": "Classic",
+          "name": "Classic Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Premium_9",
+          "weapon": "Classic",
+          "name": "Classic Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Exclusive_10",
+          "weapon": "Classic",
+          "name": "Classic Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Exclusive_11",
+          "weapon": "Classic",
+          "name": "Classic Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Exclusive_12",
+          "weapon": "Classic",
+          "name": "Classic Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Ultra_13",
+          "weapon": "Classic",
+          "name": "Classic Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Ultra_14",
+          "weapon": "Classic",
+          "name": "Classic Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Classic_Ultra_15",
+          "weapon": "Classic",
+          "name": "Classic Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Standard_0",
+          "weapon": "Shorty",
+          "name": "Shorty Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Select_1",
+          "weapon": "Shorty",
+          "name": "Shorty Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Select_2",
+          "weapon": "Shorty",
+          "name": "Shorty Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Select_3",
+          "weapon": "Shorty",
+          "name": "Shorty Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Deluxe_4",
+          "weapon": "Shorty",
+          "name": "Shorty Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Deluxe_5",
+          "weapon": "Shorty",
+          "name": "Shorty Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Deluxe_6",
+          "weapon": "Shorty",
+          "name": "Shorty Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Premium_7",
+          "weapon": "Shorty",
+          "name": "Shorty Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Premium_8",
+          "weapon": "Shorty",
+          "name": "Shorty Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Premium_9",
+          "weapon": "Shorty",
+          "name": "Shorty Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Exclusive_10",
+          "weapon": "Shorty",
+          "name": "Shorty Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Exclusive_11",
+          "weapon": "Shorty",
+          "name": "Shorty Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Exclusive_12",
+          "weapon": "Shorty",
+          "name": "Shorty Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Ultra_13",
+          "weapon": "Shorty",
+          "name": "Shorty Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Ultra_14",
+          "weapon": "Shorty",
+          "name": "Shorty Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Shorty_Ultra_15",
+          "weapon": "Shorty",
+          "name": "Shorty Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Standard_0",
+          "weapon": "Frenzy",
+          "name": "Frenzy Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Select_1",
+          "weapon": "Frenzy",
+          "name": "Frenzy Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Select_2",
+          "weapon": "Frenzy",
+          "name": "Frenzy Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Select_3",
+          "weapon": "Frenzy",
+          "name": "Frenzy Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Deluxe_4",
+          "weapon": "Frenzy",
+          "name": "Frenzy Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Deluxe_5",
+          "weapon": "Frenzy",
+          "name": "Frenzy Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Deluxe_6",
+          "weapon": "Frenzy",
+          "name": "Frenzy Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Premium_7",
+          "weapon": "Frenzy",
+          "name": "Frenzy Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Premium_8",
+          "weapon": "Frenzy",
+          "name": "Frenzy Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Premium_9",
+          "weapon": "Frenzy",
+          "name": "Frenzy Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Exclusive_10",
+          "weapon": "Frenzy",
+          "name": "Frenzy Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Exclusive_11",
+          "weapon": "Frenzy",
+          "name": "Frenzy Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Exclusive_12",
+          "weapon": "Frenzy",
+          "name": "Frenzy Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Ultra_13",
+          "weapon": "Frenzy",
+          "name": "Frenzy Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Ultra_14",
+          "weapon": "Frenzy",
+          "name": "Frenzy Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Frenzy_Ultra_15",
+          "weapon": "Frenzy",
+          "name": "Frenzy Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Standard_0",
+          "weapon": "Ghost",
+          "name": "Ghost Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Select_1",
+          "weapon": "Ghost",
+          "name": "Ghost Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Select_2",
+          "weapon": "Ghost",
+          "name": "Ghost Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Select_3",
+          "weapon": "Ghost",
+          "name": "Ghost Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Deluxe_4",
+          "weapon": "Ghost",
+          "name": "Ghost Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Deluxe_5",
+          "weapon": "Ghost",
+          "name": "Ghost Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Deluxe_6",
+          "weapon": "Ghost",
+          "name": "Ghost Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Premium_7",
+          "weapon": "Ghost",
+          "name": "Ghost Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Premium_8",
+          "weapon": "Ghost",
+          "name": "Ghost Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Premium_9",
+          "weapon": "Ghost",
+          "name": "Ghost Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Exclusive_10",
+          "weapon": "Ghost",
+          "name": "Ghost Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Exclusive_11",
+          "weapon": "Ghost",
+          "name": "Ghost Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Exclusive_12",
+          "weapon": "Ghost",
+          "name": "Ghost Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Ultra_13",
+          "weapon": "Ghost",
+          "name": "Ghost Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Ultra_14",
+          "weapon": "Ghost",
+          "name": "Ghost Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Ghost_Ultra_15",
+          "weapon": "Ghost",
+          "name": "Ghost Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Standard_0",
+          "weapon": "Sheriff",
+          "name": "Sheriff Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Select_1",
+          "weapon": "Sheriff",
+          "name": "Sheriff Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Select_2",
+          "weapon": "Sheriff",
+          "name": "Sheriff Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Select_3",
+          "weapon": "Sheriff",
+          "name": "Sheriff Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Deluxe_4",
+          "weapon": "Sheriff",
+          "name": "Sheriff Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Deluxe_5",
+          "weapon": "Sheriff",
+          "name": "Sheriff Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Deluxe_6",
+          "weapon": "Sheriff",
+          "name": "Sheriff Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Premium_7",
+          "weapon": "Sheriff",
+          "name": "Sheriff Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Premium_8",
+          "weapon": "Sheriff",
+          "name": "Sheriff Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Premium_9",
+          "weapon": "Sheriff",
+          "name": "Sheriff Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Exclusive_10",
+          "weapon": "Sheriff",
+          "name": "Sheriff Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Exclusive_11",
+          "weapon": "Sheriff",
+          "name": "Sheriff Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Exclusive_12",
+          "weapon": "Sheriff",
+          "name": "Sheriff Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Ultra_13",
+          "weapon": "Sheriff",
+          "name": "Sheriff Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Ultra_14",
+          "weapon": "Sheriff",
+          "name": "Sheriff Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Sheriff_Ultra_15",
+          "weapon": "Sheriff",
+          "name": "Sheriff Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Standard_0",
+          "weapon": "Stinger",
+          "name": "Stinger Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Select_1",
+          "weapon": "Stinger",
+          "name": "Stinger Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Select_2",
+          "weapon": "Stinger",
+          "name": "Stinger Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Select_3",
+          "weapon": "Stinger",
+          "name": "Stinger Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Deluxe_4",
+          "weapon": "Stinger",
+          "name": "Stinger Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Deluxe_5",
+          "weapon": "Stinger",
+          "name": "Stinger Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Deluxe_6",
+          "weapon": "Stinger",
+          "name": "Stinger Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Premium_7",
+          "weapon": "Stinger",
+          "name": "Stinger Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Premium_8",
+          "weapon": "Stinger",
+          "name": "Stinger Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Premium_9",
+          "weapon": "Stinger",
+          "name": "Stinger Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Exclusive_10",
+          "weapon": "Stinger",
+          "name": "Stinger Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Exclusive_11",
+          "weapon": "Stinger",
+          "name": "Stinger Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Exclusive_12",
+          "weapon": "Stinger",
+          "name": "Stinger Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Ultra_13",
+          "weapon": "Stinger",
+          "name": "Stinger Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Ultra_14",
+          "weapon": "Stinger",
+          "name": "Stinger Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Stinger_Ultra_15",
+          "weapon": "Stinger",
+          "name": "Stinger Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Standard_0",
+          "weapon": "Spectre",
+          "name": "Spectre Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Select_1",
+          "weapon": "Spectre",
+          "name": "Spectre Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Select_2",
+          "weapon": "Spectre",
+          "name": "Spectre Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Select_3",
+          "weapon": "Spectre",
+          "name": "Spectre Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Deluxe_4",
+          "weapon": "Spectre",
+          "name": "Spectre Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Deluxe_5",
+          "weapon": "Spectre",
+          "name": "Spectre Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Deluxe_6",
+          "weapon": "Spectre",
+          "name": "Spectre Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Premium_7",
+          "weapon": "Spectre",
+          "name": "Spectre Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Premium_8",
+          "weapon": "Spectre",
+          "name": "Spectre Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Premium_9",
+          "weapon": "Spectre",
+          "name": "Spectre Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Exclusive_10",
+          "weapon": "Spectre",
+          "name": "Spectre Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Exclusive_11",
+          "weapon": "Spectre",
+          "name": "Spectre Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Exclusive_12",
+          "weapon": "Spectre",
+          "name": "Spectre Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Ultra_13",
+          "weapon": "Spectre",
+          "name": "Spectre Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Ultra_14",
+          "weapon": "Spectre",
+          "name": "Spectre Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Spectre_Ultra_15",
+          "weapon": "Spectre",
+          "name": "Spectre Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Standard_0",
+          "weapon": "Bucky",
+          "name": "Bucky Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Select_1",
+          "weapon": "Bucky",
+          "name": "Bucky Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Select_2",
+          "weapon": "Bucky",
+          "name": "Bucky Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Select_3",
+          "weapon": "Bucky",
+          "name": "Bucky Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Deluxe_4",
+          "weapon": "Bucky",
+          "name": "Bucky Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Deluxe_5",
+          "weapon": "Bucky",
+          "name": "Bucky Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Deluxe_6",
+          "weapon": "Bucky",
+          "name": "Bucky Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Premium_7",
+          "weapon": "Bucky",
+          "name": "Bucky Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Premium_8",
+          "weapon": "Bucky",
+          "name": "Bucky Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Premium_9",
+          "weapon": "Bucky",
+          "name": "Bucky Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Exclusive_10",
+          "weapon": "Bucky",
+          "name": "Bucky Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Exclusive_11",
+          "weapon": "Bucky",
+          "name": "Bucky Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Exclusive_12",
+          "weapon": "Bucky",
+          "name": "Bucky Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Ultra_13",
+          "weapon": "Bucky",
+          "name": "Bucky Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Ultra_14",
+          "weapon": "Bucky",
+          "name": "Bucky Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Bucky_Ultra_15",
+          "weapon": "Bucky",
+          "name": "Bucky Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Standard_0",
+          "weapon": "Judge",
+          "name": "Judge Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Select_1",
+          "weapon": "Judge",
+          "name": "Judge Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Select_2",
+          "weapon": "Judge",
+          "name": "Judge Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Select_3",
+          "weapon": "Judge",
+          "name": "Judge Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Deluxe_4",
+          "weapon": "Judge",
+          "name": "Judge Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Deluxe_5",
+          "weapon": "Judge",
+          "name": "Judge Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Deluxe_6",
+          "weapon": "Judge",
+          "name": "Judge Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Premium_7",
+          "weapon": "Judge",
+          "name": "Judge Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Premium_8",
+          "weapon": "Judge",
+          "name": "Judge Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Premium_9",
+          "weapon": "Judge",
+          "name": "Judge Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Exclusive_10",
+          "weapon": "Judge",
+          "name": "Judge Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Exclusive_11",
+          "weapon": "Judge",
+          "name": "Judge Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Exclusive_12",
+          "weapon": "Judge",
+          "name": "Judge Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Ultra_13",
+          "weapon": "Judge",
+          "name": "Judge Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Ultra_14",
+          "weapon": "Judge",
+          "name": "Judge Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Judge_Ultra_15",
+          "weapon": "Judge",
+          "name": "Judge Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Standard_0",
+          "weapon": "Bulldog",
+          "name": "Bulldog Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Select_1",
+          "weapon": "Bulldog",
+          "name": "Bulldog Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Select_2",
+          "weapon": "Bulldog",
+          "name": "Bulldog Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Select_3",
+          "weapon": "Bulldog",
+          "name": "Bulldog Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Deluxe_4",
+          "weapon": "Bulldog",
+          "name": "Bulldog Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Deluxe_5",
+          "weapon": "Bulldog",
+          "name": "Bulldog Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Deluxe_6",
+          "weapon": "Bulldog",
+          "name": "Bulldog Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Premium_7",
+          "weapon": "Bulldog",
+          "name": "Bulldog Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Premium_8",
+          "weapon": "Bulldog",
+          "name": "Bulldog Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Premium_9",
+          "weapon": "Bulldog",
+          "name": "Bulldog Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Exclusive_10",
+          "weapon": "Bulldog",
+          "name": "Bulldog Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Exclusive_11",
+          "weapon": "Bulldog",
+          "name": "Bulldog Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Exclusive_12",
+          "weapon": "Bulldog",
+          "name": "Bulldog Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Ultra_13",
+          "weapon": "Bulldog",
+          "name": "Bulldog Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Ultra_14",
+          "weapon": "Bulldog",
+          "name": "Bulldog Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Bulldog_Ultra_15",
+          "weapon": "Bulldog",
+          "name": "Bulldog Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Standard_0",
+          "weapon": "Guardian",
+          "name": "Guardian Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Select_1",
+          "weapon": "Guardian",
+          "name": "Guardian Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Select_2",
+          "weapon": "Guardian",
+          "name": "Guardian Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Select_3",
+          "weapon": "Guardian",
+          "name": "Guardian Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Deluxe_4",
+          "weapon": "Guardian",
+          "name": "Guardian Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Deluxe_5",
+          "weapon": "Guardian",
+          "name": "Guardian Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Deluxe_6",
+          "weapon": "Guardian",
+          "name": "Guardian Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Premium_7",
+          "weapon": "Guardian",
+          "name": "Guardian Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Premium_8",
+          "weapon": "Guardian",
+          "name": "Guardian Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Premium_9",
+          "weapon": "Guardian",
+          "name": "Guardian Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Exclusive_10",
+          "weapon": "Guardian",
+          "name": "Guardian Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Exclusive_11",
+          "weapon": "Guardian",
+          "name": "Guardian Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Exclusive_12",
+          "weapon": "Guardian",
+          "name": "Guardian Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Ultra_13",
+          "weapon": "Guardian",
+          "name": "Guardian Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Ultra_14",
+          "weapon": "Guardian",
+          "name": "Guardian Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Guardian_Ultra_15",
+          "weapon": "Guardian",
+          "name": "Guardian Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Standard_0",
+          "weapon": "Phantom",
+          "name": "Phantom Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Select_1",
+          "weapon": "Phantom",
+          "name": "Phantom Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Select_2",
+          "weapon": "Phantom",
+          "name": "Phantom Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Select_3",
+          "weapon": "Phantom",
+          "name": "Phantom Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Deluxe_4",
+          "weapon": "Phantom",
+          "name": "Phantom Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Deluxe_5",
+          "weapon": "Phantom",
+          "name": "Phantom Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Deluxe_6",
+          "weapon": "Phantom",
+          "name": "Phantom Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Premium_7",
+          "weapon": "Phantom",
+          "name": "Phantom Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Premium_8",
+          "weapon": "Phantom",
+          "name": "Phantom Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Premium_9",
+          "weapon": "Phantom",
+          "name": "Phantom Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Exclusive_10",
+          "weapon": "Phantom",
+          "name": "Phantom Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Exclusive_11",
+          "weapon": "Phantom",
+          "name": "Phantom Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Exclusive_12",
+          "weapon": "Phantom",
+          "name": "Phantom Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Ultra_13",
+          "weapon": "Phantom",
+          "name": "Phantom Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Ultra_14",
+          "weapon": "Phantom",
+          "name": "Phantom Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Phantom_Ultra_15",
+          "weapon": "Phantom",
+          "name": "Phantom Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Standard_0",
+          "weapon": "Vandal",
+          "name": "Vandal Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Select_1",
+          "weapon": "Vandal",
+          "name": "Vandal Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Select_2",
+          "weapon": "Vandal",
+          "name": "Vandal Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Select_3",
+          "weapon": "Vandal",
+          "name": "Vandal Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Deluxe_4",
+          "weapon": "Vandal",
+          "name": "Vandal Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Deluxe_5",
+          "weapon": "Vandal",
+          "name": "Vandal Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Deluxe_6",
+          "weapon": "Vandal",
+          "name": "Vandal Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Premium_7",
+          "weapon": "Vandal",
+          "name": "Vandal Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Premium_8",
+          "weapon": "Vandal",
+          "name": "Vandal Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Premium_9",
+          "weapon": "Vandal",
+          "name": "Vandal Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Exclusive_10",
+          "weapon": "Vandal",
+          "name": "Vandal Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Exclusive_11",
+          "weapon": "Vandal",
+          "name": "Vandal Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Exclusive_12",
+          "weapon": "Vandal",
+          "name": "Vandal Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Ultra_13",
+          "weapon": "Vandal",
+          "name": "Vandal Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Ultra_14",
+          "weapon": "Vandal",
+          "name": "Vandal Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Vandal_Ultra_15",
+          "weapon": "Vandal",
+          "name": "Vandal Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Standard_0",
+          "weapon": "Marshal",
+          "name": "Marshal Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Select_1",
+          "weapon": "Marshal",
+          "name": "Marshal Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Select_2",
+          "weapon": "Marshal",
+          "name": "Marshal Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Select_3",
+          "weapon": "Marshal",
+          "name": "Marshal Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Deluxe_4",
+          "weapon": "Marshal",
+          "name": "Marshal Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Deluxe_5",
+          "weapon": "Marshal",
+          "name": "Marshal Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Deluxe_6",
+          "weapon": "Marshal",
+          "name": "Marshal Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Premium_7",
+          "weapon": "Marshal",
+          "name": "Marshal Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Premium_8",
+          "weapon": "Marshal",
+          "name": "Marshal Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Premium_9",
+          "weapon": "Marshal",
+          "name": "Marshal Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Exclusive_10",
+          "weapon": "Marshal",
+          "name": "Marshal Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Exclusive_11",
+          "weapon": "Marshal",
+          "name": "Marshal Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Exclusive_12",
+          "weapon": "Marshal",
+          "name": "Marshal Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Ultra_13",
+          "weapon": "Marshal",
+          "name": "Marshal Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Ultra_14",
+          "weapon": "Marshal",
+          "name": "Marshal Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Marshal_Ultra_15",
+          "weapon": "Marshal",
+          "name": "Marshal Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Standard_0",
+          "weapon": "Operator",
+          "name": "Operator Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Select_1",
+          "weapon": "Operator",
+          "name": "Operator Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Select_2",
+          "weapon": "Operator",
+          "name": "Operator Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Select_3",
+          "weapon": "Operator",
+          "name": "Operator Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Deluxe_4",
+          "weapon": "Operator",
+          "name": "Operator Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Deluxe_5",
+          "weapon": "Operator",
+          "name": "Operator Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Deluxe_6",
+          "weapon": "Operator",
+          "name": "Operator Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Premium_7",
+          "weapon": "Operator",
+          "name": "Operator Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Premium_8",
+          "weapon": "Operator",
+          "name": "Operator Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Premium_9",
+          "weapon": "Operator",
+          "name": "Operator Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Exclusive_10",
+          "weapon": "Operator",
+          "name": "Operator Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Exclusive_11",
+          "weapon": "Operator",
+          "name": "Operator Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Exclusive_12",
+          "weapon": "Operator",
+          "name": "Operator Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Ultra_13",
+          "weapon": "Operator",
+          "name": "Operator Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Ultra_14",
+          "weapon": "Operator",
+          "name": "Operator Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Operator_Ultra_15",
+          "weapon": "Operator",
+          "name": "Operator Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Standard_0",
+          "weapon": "Outlaw",
+          "name": "Outlaw Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Select_1",
+          "weapon": "Outlaw",
+          "name": "Outlaw Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Select_2",
+          "weapon": "Outlaw",
+          "name": "Outlaw Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Select_3",
+          "weapon": "Outlaw",
+          "name": "Outlaw Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Deluxe_4",
+          "weapon": "Outlaw",
+          "name": "Outlaw Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Deluxe_5",
+          "weapon": "Outlaw",
+          "name": "Outlaw Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Deluxe_6",
+          "weapon": "Outlaw",
+          "name": "Outlaw Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Premium_7",
+          "weapon": "Outlaw",
+          "name": "Outlaw Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Premium_8",
+          "weapon": "Outlaw",
+          "name": "Outlaw Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Premium_9",
+          "weapon": "Outlaw",
+          "name": "Outlaw Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Exclusive_10",
+          "weapon": "Outlaw",
+          "name": "Outlaw Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Exclusive_11",
+          "weapon": "Outlaw",
+          "name": "Outlaw Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Exclusive_12",
+          "weapon": "Outlaw",
+          "name": "Outlaw Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Ultra_13",
+          "weapon": "Outlaw",
+          "name": "Outlaw Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Ultra_14",
+          "weapon": "Outlaw",
+          "name": "Outlaw Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Outlaw_Ultra_15",
+          "weapon": "Outlaw",
+          "name": "Outlaw Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Standard_0",
+          "weapon": "Ares",
+          "name": "Ares Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Select_1",
+          "weapon": "Ares",
+          "name": "Ares Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Select_2",
+          "weapon": "Ares",
+          "name": "Ares Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Select_3",
+          "weapon": "Ares",
+          "name": "Ares Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Deluxe_4",
+          "weapon": "Ares",
+          "name": "Ares Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Deluxe_5",
+          "weapon": "Ares",
+          "name": "Ares Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Deluxe_6",
+          "weapon": "Ares",
+          "name": "Ares Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Premium_7",
+          "weapon": "Ares",
+          "name": "Ares Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Premium_8",
+          "weapon": "Ares",
+          "name": "Ares Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Premium_9",
+          "weapon": "Ares",
+          "name": "Ares Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Exclusive_10",
+          "weapon": "Ares",
+          "name": "Ares Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Exclusive_11",
+          "weapon": "Ares",
+          "name": "Ares Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Exclusive_12",
+          "weapon": "Ares",
+          "name": "Ares Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Ultra_13",
+          "weapon": "Ares",
+          "name": "Ares Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Ultra_14",
+          "weapon": "Ares",
+          "name": "Ares Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Ares_Ultra_15",
+          "weapon": "Ares",
+          "name": "Ares Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Standard_0",
+          "weapon": "Odin",
+          "name": "Odin Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Select_1",
+          "weapon": "Odin",
+          "name": "Odin Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Select_2",
+          "weapon": "Odin",
+          "name": "Odin Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Select_3",
+          "weapon": "Odin",
+          "name": "Odin Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Deluxe_4",
+          "weapon": "Odin",
+          "name": "Odin Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Deluxe_5",
+          "weapon": "Odin",
+          "name": "Odin Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Deluxe_6",
+          "weapon": "Odin",
+          "name": "Odin Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Premium_7",
+          "weapon": "Odin",
+          "name": "Odin Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Premium_8",
+          "weapon": "Odin",
+          "name": "Odin Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Premium_9",
+          "weapon": "Odin",
+          "name": "Odin Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Exclusive_10",
+          "weapon": "Odin",
+          "name": "Odin Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Exclusive_11",
+          "weapon": "Odin",
+          "name": "Odin Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Exclusive_12",
+          "weapon": "Odin",
+          "name": "Odin Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Ultra_13",
+          "weapon": "Odin",
+          "name": "Odin Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Ultra_14",
+          "weapon": "Odin",
+          "name": "Odin Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Odin_Ultra_15",
+          "weapon": "Odin",
+          "name": "Odin Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Standard_0",
+          "weapon": "Melee",
+          "name": "Melee Standard",
+          "tier": "Standard",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Select_1",
+          "weapon": "Melee",
+          "name": "Melee Select 1",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Select_2",
+          "weapon": "Melee",
+          "name": "Melee Select 2",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Select_3",
+          "weapon": "Melee",
+          "name": "Melee Select 3",
+          "tier": "Select",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Deluxe_4",
+          "weapon": "Melee",
+          "name": "Melee Deluxe 1",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Deluxe_5",
+          "weapon": "Melee",
+          "name": "Melee Deluxe 2",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Deluxe_6",
+          "weapon": "Melee",
+          "name": "Melee Deluxe 3",
+          "tier": "Deluxe",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Premium_7",
+          "weapon": "Melee",
+          "name": "Melee Premium 1",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Premium_8",
+          "weapon": "Melee",
+          "name": "Melee Premium 2",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Premium_9",
+          "weapon": "Melee",
+          "name": "Melee Premium 3",
+          "tier": "Premium",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Exclusive_10",
+          "weapon": "Melee",
+          "name": "Melee Exclusive 1",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Exclusive_11",
+          "weapon": "Melee",
+          "name": "Melee Exclusive 2",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Exclusive_12",
+          "weapon": "Melee",
+          "name": "Melee Exclusive 3",
+          "tier": "Exclusive",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Ultra_13",
+          "weapon": "Melee",
+          "name": "Melee Ultra 1",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Ultra_14",
+          "weapon": "Melee",
+          "name": "Melee Ultra 2",
+          "tier": "Ultra",
+          "unlocked": true
+        },
+        {
+          "id": "Melee_Ultra_15",
+          "weapon": "Melee",
+          "name": "Melee Ultra 3",
+          "tier": "Ultra",
+          "unlocked": true
+        }
+      ],
+      "sprays": [
+        {
+          "id": "Spray_1",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_2",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_3",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_4",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_5",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_6",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_7",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_8",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_9",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_10",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_11",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_12",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_13",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_14",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_15",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_16",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_17",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_18",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_19",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_20",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_21",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_22",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_23",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_24",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_25",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_26",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_27",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_28",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_29",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_30",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_31",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_32",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_33",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_34",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_35",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_36",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_37",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_38",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_39",
+          "unlocked": true
+        },
+        {
+          "id": "Spray_40",
+          "unlocked": true
+        }
+      ],
+      "buddies": [
+        {
+          "id": "Buddy_1",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_2",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_3",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_4",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_5",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_6",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_7",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_8",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_9",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_10",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_11",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_12",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_13",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_14",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_15",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_16",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_17",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_18",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_19",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_20",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_21",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_22",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_23",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_24",
+          "unlocked": true
+        },
+        {
+          "id": "Buddy_25",
+          "unlocked": true
+        }
+      ],
+      "cards": [
+        {
+          "id": "Card_1",
+          "unlocked": true
+        },
+        {
+          "id": "Card_2",
+          "unlocked": true
+        },
+        {
+          "id": "Card_3",
+          "unlocked": true
+        },
+        {
+          "id": "Card_4",
+          "unlocked": true
+        },
+        {
+          "id": "Card_5",
+          "unlocked": true
+        },
+        {
+          "id": "Card_6",
+          "unlocked": true
+        },
+        {
+          "id": "Card_7",
+          "unlocked": true
+        },
+        {
+          "id": "Card_8",
+          "unlocked": true
+        },
+        {
+          "id": "Card_9",
+          "unlocked": true
+        },
+        {
+          "id": "Card_10",
+          "unlocked": true
+        },
+        {
+          "id": "Card_11",
+          "unlocked": true
+        },
+        {
+          "id": "Card_12",
+          "unlocked": true
+        },
+        {
+          "id": "Card_13",
+          "unlocked": true
+        },
+        {
+          "id": "Card_14",
+          "unlocked": true
+        },
+        {
+          "id": "Card_15",
+          "unlocked": true
+        },
+        {
+          "id": "Card_16",
+          "unlocked": true
+        },
+        {
+          "id": "Card_17",
+          "unlocked": true
+        },
+        {
+          "id": "Card_18",
+          "unlocked": true
+        },
+        {
+          "id": "Card_19",
+          "unlocked": true
+        },
+        {
+          "id": "Card_20",
+          "unlocked": true
+        },
+        {
+          "id": "Card_21",
+          "unlocked": true
+        },
+        {
+          "id": "Card_22",
+          "unlocked": true
+        },
+        {
+          "id": "Card_23",
+          "unlocked": true
+        },
+        {
+          "id": "Card_24",
+          "unlocked": true
+        },
+        {
+          "id": "Card_25",
+          "unlocked": true
+        },
+        {
+          "id": "Card_26",
+          "unlocked": true
+        },
+        {
+          "id": "Card_27",
+          "unlocked": true
+        },
+        {
+          "id": "Card_28",
+          "unlocked": true
+        },
+        {
+          "id": "Card_29",
+          "unlocked": true
+        },
+        {
+          "id": "Card_30",
+          "unlocked": true
+        }
+      ],
+      "titles": [
+        {
+          "id": "THE HUNTER",
+          "unlocked": true
+        },
+        {
+          "id": "RISING STAR",
+          "unlocked": true
+        },
+        {
+          "id": "UNSTOPPABLE",
+          "unlocked": true
+        },
+        {
+          "id": "SHARPSHOOTER",
+          "unlocked": true
+        },
+        {
+          "id": "TACTICIAN",
+          "unlocked": true
+        },
+        {
+          "id": "RADIANT HOPEFUL",
+          "unlocked": true
+        },
+        {
+          "id": "FIRST BLOOD",
+          "unlocked": true
+        },
+        {
+          "id": "CLUTCH",
+          "unlocked": true
+        }
+      ],
+      "currency": {
+        "vp": 99999,
+        "radianite": 9999,
+        "kingdom_credits": 99999
+      }
+    },
+    "loadout": {
+      "Classic": {
+        "skin_id": "Classic_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Shorty": {
+        "skin_id": "Shorty_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Frenzy": {
+        "skin_id": "Frenzy_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Ghost": {
+        "skin_id": "Ghost_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Sheriff": {
+        "skin_id": "Sheriff_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Stinger": {
+        "skin_id": "Stinger_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Spectre": {
+        "skin_id": "Spectre_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Bucky": {
+        "skin_id": "Bucky_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Judge": {
+        "skin_id": "Judge_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Bulldog": {
+        "skin_id": "Bulldog_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Guardian": {
+        "skin_id": "Guardian_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Phantom": {
+        "skin_id": "Phantom_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Vandal": {
+        "skin_id": "Vandal_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Marshal": {
+        "skin_id": "Marshal_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Operator": {
+        "skin_id": "Operator_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Outlaw": {
+        "skin_id": "Outlaw_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Ares": {
+        "skin_id": "Ares_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Odin": {
+        "skin_id": "Odin_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      },
+      "Melee": {
+        "skin_id": "Melee_Standard_0",
+        "buddy_id": "Buddy_1",
+        "charm_id": null
+      }
+    },
+    "identity": {
+      "card_id": "Card_1",
+      "title_id": "THE HUNTER",
+      "preferred_agent": "Fade"
+    },
+    "created_at": "2026-10-26T20:20:43.850Z",
+    "updated_at": "2026-10-26T20:20:43.850Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Swift",
+  "tag": "ASC",
+  "puuid": "5f7a3a8c-0301-406d-b398-fb6b1636e689",
+  "files": {
+    "profile": "profile.json",
+    "user": "user.json",
+    "routes": [
+      "routes/GET_v1_users_me.json",
+      "routes/GET_v1_profiles_me.json",
+      "routes/GET_v1_profiles_puuid.json",
+      "routes/GET_v1_inventory.json",
+      "routes/GET_v1_inventory_agents.json",
+      "routes/GET_v1_inventory_skins.json",
+      "routes/GET_v1_loadouts.json",
+      "routes/GET_v1_loadouts_current.json",
+      "routes/GET_v1_player.json",
+      "routes/GET_v1_player_mmr.json",
+      "routes/GET_v1_player_loadout.json",
+      "routes/GET_v1_entitlements.json",
+      "routes/GET_v1_catalog_agents.json",
+      "routes/GET_v1_catalog_weapons.json",
+      "routes/GET_v1_catalog_maps.json",
+      "routes/GET_v1_party_me.json",
+      "routes/GET_v1_matchmaking_status.json",
+      "routes/GET_v1_matches_history.json",
+      "routes/GET_v1_friends.json",
+      "routes/GET_v1_presence.json",
+      "routes/GET_v1_voice_token.json",
+      "routes/GET_v1_auth_me.json",
+      "routes/POST_v1_auth_login.json",
+      "routes/POST_v1_players_ready.json",
+      "routes/GET_v1_local_status.json"
+    ]
+  }
+}

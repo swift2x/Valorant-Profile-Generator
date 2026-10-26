@@ -1,0 +1,7 @@
+{
+  "rnet": {
+    "running": true,
+    "port": 21000
+  },
+  "region": "na"
+}

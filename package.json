@@ -1,0 +1,16 @@
+{
+  "name": "ascent-profile-gen",
+  "version": "1.0.0",
+  "description": "Generate full Ascent player profiles (agents, skins, loadouts) in JavaScript",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "ascent-profile": "src/cli.js"
+  },
+  "scripts": {
+    "generate": "node src/cli.js",
+    "example": "node src/cli.js --name Swift --tag ASC --out profile.json"
+  },
+  "keywords": ["ascent", "valorant", "profile", "generator"],
+  "license": "MIT"
+}
